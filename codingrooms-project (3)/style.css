@@ -263,12 +263,8 @@ span {
     background-color: rgba(0, 0, 0, 0.568);
     color: rgb(252, 249, 245);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 5px;
+    padding: 0;
     opacity: 0;
-}
-
-span {
-    margin: 0;
 }
 
 div:hover > span {
