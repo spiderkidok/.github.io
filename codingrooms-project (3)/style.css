@@ -265,6 +265,8 @@ span {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 0;
     opacity: 0;
+    justify-text: center;
+    align-text: center;
 }
 
 div:hover > span {
