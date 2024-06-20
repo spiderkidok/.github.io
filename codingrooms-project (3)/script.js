@@ -9,7 +9,7 @@ const tl = new TimelineMax();
 
 tl.fromTo(
     image,
-    1,
+    1
     { height: "0%"}, 
     { height: "80%", ease: Power2.easeInOut }
 )
