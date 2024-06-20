@@ -265,6 +265,7 @@ span {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 5px;
     opacity: 0;
+	margin: 0;
 }
 
 div:hover > span {
@@ -331,6 +332,7 @@ div:hover > span {
     justify-content: justify;
     align-items: justify;
 }
+
 
 /* CONTACT Adapted from: https://www.sanwebe.com/2014/08/css-html-forms-designs#google_vignette */
 .information {
@@ -452,7 +454,6 @@ select {
     }
     span {
         font-size: 25px;
-        margin: ;
     }
     .sports-main div p {
         font-size: 10px;
